@@ -1,2 +1,2 @@
 mmebuat file index
-menambah fitur login
+menambah fitur sign up
