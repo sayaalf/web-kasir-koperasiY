@@ -1,4 +1,8 @@
 menu utama
+  ^visi:terserah mencerdaskan toko
+   misi:karepo rapapa
+  ^profil:apaya berdiri tahun
+  ^alamat : alamate ngendi terserah
 menu login
 menu sign up
 daftar harga barang
